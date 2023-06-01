@@ -10,7 +10,7 @@ print(f'base path: {base_path}')
 # output_file = base_path + '/output_data/report_penjualan_2019_1.xlsx'
 
 input_file = base_path + '/input_data/sales_january.xlsx'
-output_file = base_path + '/output_data/report_penjualan_2019_2.xlsx'
+output_file = base_path + '/output_data/report_penjualan_2019.xlsx'
 
 # Opening JSON file
 configs = open(base_path + '/configs/webhook.json')
